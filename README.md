@@ -8,13 +8,9 @@ NO$ (NoCash) - Martin Korth -
     <li><a href="http://problemkaputt.de/pandocs.htm">Gameboy</a></li>
     <li><a href="http://problemkaputt.de/gbatek.htm">Gameboy Advance, Nintendo DS and DSi</a></li>
     <li><a href="http://problemkaputt.de/portar.htm">MSX</a></li>
-    <li><a href="">NES</a></li>
-    <li><a href="">PS1</a></li>
-    <li><a href="">Super Nintendo</a></li>
-    <li><a href="">ZX80</a></li>
-    <li><a href="">ZX81</a></li>
-    <li><a href="">Lambda 8300</a></li>
-    <li><a href="">Jupiter ACE</a></li>
-    <li><a href="">ZX Spectrum</a></li>
+    <li><a href="http://problemkaputt.de/everynes.htm">NES</a></li>
+    <li><a href="http://problemkaputt.de/psx-spx.htm">PS1</a></li>
+    <li><a href="http://problemkaputt.de/fullsnes.htm">Super Nintendo</a></li>
+    <li><a href="http://problemkaputt.de/zxdocs.htm">ZX80, ZX81, Lambda 8300, Jupiter ACE, ZX Spectrum</a></li>
 </ul>
 
