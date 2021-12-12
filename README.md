@@ -14,3 +14,7 @@ NO$ (NoCash) - Martin Korth -
     <li><a href="http://problemkaputt.de/zxdocs.htm">ZX80, ZX81, Lambda 8300, Jupiter ACE, ZX Spectrum</a></li>
 </ul>
 
+
+Interface Gráfica:
+(2021) - Muitos emuladores usam Interface gráfica QT.
+Ex: QTCreator - https://www.qt.io/
