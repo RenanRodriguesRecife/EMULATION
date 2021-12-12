@@ -13,3 +13,6 @@ Bisqwit:
 <a href="https://www.youtube.com/watch?v=XZWw745wPXY">Creating a NES emulator in C++11 (PART 2/2)</a>
 
 
+CURIOSIDADES:
+<a href="https://www.youtube.com/watch?v=ZWQ0591PAxM">How we fit an NES game into 40 Kilobytes</a>
+<a href="https://www.youtube.com/watch?v=vH-D6GdkyCw">How Super Mario Bros Was Made Into 40 Kilobytes</a>
